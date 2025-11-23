@@ -107,4 +107,9 @@ hr{
 
 .aboutMe{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5ref auto;
+    max-width: 1200px;
+    gap: 10rem;
 }
