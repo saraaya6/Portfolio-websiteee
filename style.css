@@ -76,3 +76,9 @@ hr{
     font-size: 3rem;
     color: #00adb5;
 }
+
+.heroBtns{
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
