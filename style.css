@@ -109,7 +109,7 @@ hr{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 5ref auto;
+    margin: 5rem auto;
     max-width: 1200px;
     gap: 10rem;
 }
@@ -119,6 +119,22 @@ hr{
     flex-direction: column;
 }
 
-textTitle{
+.textTitle{
     display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 2rem;
+}
+
+.aboutName{
+    color: #eeeeee;
+}
+
+.aboutTitle{
+    color: #00adb5;
+}
+
+.aboutMePar{
+    text-align: justify;
+    color: #eeeeee;
 }
